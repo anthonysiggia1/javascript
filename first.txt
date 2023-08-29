@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 # hello
 Was
+=======
+computer science 
+hello
+j
+>>>>>>> e8e31f3f0f59d818a36e6f7b15be2b4cba867d2f
